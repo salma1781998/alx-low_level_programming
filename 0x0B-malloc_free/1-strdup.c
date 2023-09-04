@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char *_strdup(char *str);
+char *_strdup(char *str)
 {
 	char *aaa
 	int i, r =0;
